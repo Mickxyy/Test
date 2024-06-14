@@ -4,7 +4,7 @@ import 'dart:convert';
 void main() {
   final String botToken = '6615348419:AAFFoMIu9qFacUf9BRKZXZqZac-9_gCgbng';
   final String chatId = '-1001548036287';
-  final String yourName = 'Dong Phyy';
+  final String yourName = 'Dong Phyyy';
 
   final String message = 'Hello World, $yourName.';
 
